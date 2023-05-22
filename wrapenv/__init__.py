@@ -13,5 +13,10 @@
 # Licence:     MIT
 # -------------------------------------------------------------------------------
 
-from .wrapenv import environment
-__all__ = (environment)
+from .wrapenv import environment, ENVIRONMENT
+__all__ = (environment, ENVIRONMENT)
+
+__version__ = '0.1.1'
+__author__ = 'Anton G. Mueckl'
+__license__ = 'MIT'
+__email__ = 'AMueckl@users.noreply.github.com'
