@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "wrapenv"
-version = "0.1.3"
+version = "0.1.4"
 description = "A wrapper for callable functions with environments to register pre- and post-processing functions checks and modifications."
 authors = ["AMueckl <AMueckl@users.noreply.github.com>"]
 readme = "README.md"

@@ -16,7 +16,7 @@
 from .wrapenv import environment, ENVIRONMENT, Function
 __all__ = (environment, ENVIRONMENT, Function)
 
-__version__ = '0.1.3'
+__version__ = '0.1.4'
 __author__ = 'Anton G. Mueckl'
 __license__ = 'MIT'
 __email__ = 'AMueckl@users.noreply.github.com'
